@@ -1,0 +1,4 @@
+name,type,lat,lng,address,service_minutes
+My storage house,depot,12.9784,77.6408,"Your address here",0
+First customer,stop,12.9352,77.6245,"Their address here",5
+Second customer,stop,12.9250,77.5938,"Their address here",5
